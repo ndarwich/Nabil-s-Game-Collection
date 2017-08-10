@@ -1,12 +1,17 @@
 # Nabil's Game Collection
 
 ## Run
+####  Prerequisites
+JDK 8 - http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
 ####  Compile
 javac MyGames.java HillHeroes/*.java Snake/*.java BattleSnake/*.java TetrisWorld/*.java Chess/*.java Rocketman/*.java
 
 #### Run
 java -cp . MyGames
+
 OR
+
 java MyGames
 
 (Working with JDK 8)
