@@ -1,12 +1,10 @@
-# Nabil-s-Game-Collection
+# Nabil's Game Collection
 
 ## Run
-
 ####  Compile
 javac MyGames.java HillHeroes/*.java Snake/*.java BattleSnake/*.java TetrisWorld/*.java Chess/*.java Rocketman/*.java
 
 #### Run
-
 java -cp . MyGames
 OR
 java MyGames
