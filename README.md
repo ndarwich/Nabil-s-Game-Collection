@@ -14,8 +14,6 @@ OR
 
 java MyGames
 
-(Working with JDK 8)
-
 ## Descriptions
 
 ### Hill Heroes
