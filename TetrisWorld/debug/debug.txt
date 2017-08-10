@@ -1,0 +1,57 @@
+|||||||||||||||||||||||||||| |  yyyybbbooop|ppppppooyyboo|
+| bbbo rr   bo  yyo   ggrr |        became
+| byyooorrbbboooyyoooggbbrr|      |  yyybbbb o  | ppppp o yyoo|
+|  yyyybbbooopppppppooyyboo|3 vs  |ooyyyybbbb o |ppppp o yybo | GOOD
+|ooyyyybbbb o ppppp o yybo |4
+|o yy   b rr        o  rro |5
+|o p       rr           rr |6
+|  pp                   c  |7
+|  p                    c r|8
+|  o                    crr|9
+|  o                    crr|0
+| oo                    orr|1
+|  g                    or |2
+|  gg                  oo  |3
+|  bg                   o p|4
+|  b                    opp|5
+|  bb                  oo p|6
+| yy                    r  |7
+| yy                  orr  |8
+| ccc                 orp  |9
+| ccc                oopp  |0
+| ccc p          g      p  |1
+| ccc pp p  gpppggg   i bb |2
+| yyo poppppggppgggp  iyyb |3
+| yyoooooopppgpppgpppiiyyb |4
+|ooobbbyyccccggooorrccccgg |
+|  ob  yy   gg   o rr  gg  |
+||||||||||||||||||||||||||||
+0123456789012345678901234567
+||||||||||||||||||||||||||||
+| bbbo rr   bo  yyo   ggrr |
+| byyooorrbbboooyyoooggbbrr|
+|  yyybbbb o   ppppp o yyoo|3
+|ooy     rr             ro |4
+|o                       o |5
+|o p                     r |6
+|                          |7
+|                         r|8
+|                        rr|9
+|                        rr|0
+| o                      rr|1
+|                       or |2
+|                          |3
+|  g                      p|4
+|  g                     pp|5
+|                         p|6
+| yb          rr        o  |7
+| y            rr          |8
+| c                     r  |9
+| cc                    r  |0
+| cc                    p  |1
+| cc          ii         b |2
+| ycp          ii  g     b |3
+| yo poppppgg  ppgggp  oyb |4
+|ooobbbyyccccggooorrccccgg |
+|  ob  yy   gg   o rr  gg  |
+||||||||||||||||||||||||||||
