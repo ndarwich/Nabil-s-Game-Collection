@@ -63,7 +63,7 @@ are just letters :D) in less than 6 hours. The game is won by eating the king.
 ##### ~ December 2016, winter break
 ###### Controls: Arrow keys/WASD to move, N to skip a level (was a debug, but kept it)
 This was my 2016-17 Winter Break's project. The idea stemmed from
-watching the "World's Hardest Game" being completed on YouTube, and I figured
+watching the [World's Hardest Game being completed on YouTube](https://www.youtube.com/watch?v=LR3MT2GdYtc), and I figured
 I am able to design a similar game myself. I designed icons that have a space
 theme, and proceeded to program the logic for fireball
 movement (lines, circles, or rectangles), user movement, objects that can be
