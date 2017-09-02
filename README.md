@@ -46,8 +46,8 @@ speed up time, make the snake much larger, etc...
 ###### Controls: Arrow keys to move piece, opposite arrow key of current shift to rotate. R can also rotate. Left shift to turn the shift. Right shift to hold piece. ESC to pause. 
 A 'draft' of Tetriworld, contains the program that
 started what I would do for the duration of the month of June. The objective
-of Tetris World is the same as TetriWorld, which is to fill in the edges
-of a square whose center is the middle. Doing so would push ever tile inside the square
+of Tetris World is the same as [TetriWorld](http://www.tetriworld.com/), which is to fill in the edges
+of a square whose center is the middle. Doing so would push every tile inside the square
 outwards. Numerous things in this game's algorithm have been rethought and
 ameliorated for the actual TetriWorld game.
 
